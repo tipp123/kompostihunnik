@@ -20,3 +20,5 @@
 * Using python script extact data from [http://airviro.klab.ee/]() (`fetch_air.ipynb`).
 * Using Openrefine transform columns into correct format (use `data_tranform_steps_air.json`)
 * Use Openrefine export to SQL.
+
+All
