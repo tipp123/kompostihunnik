@@ -1,8 +1,6 @@
-#### DATA
+### Data
 
-Metadata about air quality:
-
-##### Metadata about air quality:
+###### Metadata about air quality:
 
 [Eesti välisõhu kvaliteet](http://airviro.klab.ee/)
 
